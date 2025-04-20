@@ -29,6 +29,7 @@ children :[
     },
     {
       path:"/readList",
+      loader:()=>fetch("../booksData.json"),
       element:<ReadList></ReadList>
 
     }

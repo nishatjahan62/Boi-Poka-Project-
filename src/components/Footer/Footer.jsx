@@ -4,7 +4,7 @@ const footer = () => {
     return (
       
 
-        <footer className="footer font-[work-sans] sm:footer-horizontal bg-base-300 text-base-content p-10">
+        <footer className="footer font-[work-sans] sm:footer-horizontal bg-base-300 text-base-content p-10 px-[115px]  ">
   <nav>
     <h6 className="footer-title">Services</h6>
     <a className="link link-hover">Branding</a>

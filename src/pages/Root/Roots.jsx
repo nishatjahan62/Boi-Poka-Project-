@@ -7,11 +7,10 @@ import { Toaster } from 'react-hot-toast';
 const Roots = () => {
     <Toaster/>
     return (
-        <div className='mx-[115px]  '>
+        <div className='  '>
             <Navbar></Navbar>
             <Outlet></Outlet>
             <Footer></Footer>
-        
         
         </div>
     );

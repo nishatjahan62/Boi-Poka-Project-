@@ -27,4 +27,4 @@ const addToList =(id)=>{
             localStorage.setItem("readList", books)
         }
 }
-export {addToList}
+export {addToList, getBookList}

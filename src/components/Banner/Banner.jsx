@@ -2,7 +2,7 @@ import React from "react";
 
 const Banner = () => {
   return (
-    <div className="bg-[#EEEEEE] my-[50px] rounded-xl py-15 px-[125px] ">
+    <div className="bg-[#EEEEEE] my-[50px] rounded-xl py-15 px-[125px] mx-[115px] ">
       <div className="flex justify-between items-center">
         <div className="font-[playfair-display]">
           <h1 className="text-5xl font-bold pb-10 ">Books to freshen up <br /> your bookshelf.</h1>
